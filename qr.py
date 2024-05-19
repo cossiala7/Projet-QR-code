@@ -11,7 +11,7 @@ qr = qrcode.QRCode(
     border=4,  # taille de la bordure
 )
 
-# Ajouter les données au QR code
+# Ajouter les donnees 
 qr.add_data(data)
 qr.make(fit=True)
 
