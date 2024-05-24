@@ -1,7 +1,7 @@
 import qrcode
 
 # Données à encoder dans le QR code
-data = "https://www.instagram.com"
+data = "https://dit.sn/"
 
 # Créer un objet QRCode
 qr = qrcode.QRCode(
